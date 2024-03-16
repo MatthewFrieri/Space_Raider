@@ -1,5 +1,5 @@
 # Space_Raider
-My first polished game! A parody of the no wifi dinosaur game
+My first polished game! A parody of the Chrome Dinosaur Game
 
 ![plot](./Sprites/Thumbnail1.png)
 
